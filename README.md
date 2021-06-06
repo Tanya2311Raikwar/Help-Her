@@ -26,3 +26,13 @@ Use of various Google API, Google Cloud
 ## What's next for Help Her
 Deploying it on web
 
+## Some Glimps of the site
+Easy Sign In with Google
+![google Sign In](https://user-images.githubusercontent.com/72160468/120925035-39dc7080-c6f4-11eb-821d-42b75a75b3c1.png)
+Home Page
+![home page](https://user-images.githubusercontent.com/72160468/120925029-347f2600-c6f4-11eb-9d62-a217eaad6853.png)
+Easy search using Google Map API
+![map](https://user-images.githubusercontent.com/72160468/120925057-55e01200-c6f4-11eb-8ee1-282cc1864eba.png)
+Smart Dialougeflow Chatbot
+![assistant](https://user-images.githubusercontent.com/72160468/120925062-59739900-c6f4-11eb-9ed2-58e78f9057a3.png)
+
