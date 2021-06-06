@@ -1,7 +1,7 @@
 # Help Her
 
 ## Damo
-Chackout the demo fro [here](https://youtu.be/6SwLVv4cYi8)
+Chackout the demo from [here](https://youtu.be/6SwLVv4cYi8)
 
 ## Inspiration
 Now a days it is very risky to ask for unknown routes in an unknown city from a stranger.
